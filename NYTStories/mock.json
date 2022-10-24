@@ -1,0 +1,2034 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+   "section":"World News",
+   "last_updated":"2022-09-26T11:56:45-04:00",
+   "num_results":31,
+   "results":[
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Europe Looks at Italy’s Meloni With Caution and Trepidation",
+         "abstract":"Giorgia Meloni, poised to be the country’s first far-right leader since Mussolini, says she supports Ukraine and has moderated her harsh views on Europe, but there are doubts, given her partners.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/european-union-italy-meloni.html",
+         "uri":"nyt://article/32cda7e1-76fd-5f51-a131-fab364fe56bf",
+         "byline":"By Steven Erlanger",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T11:48:16-04:00",
+         "created_date":"2022-09-26T06:27:56-04:00",
+         "published_date":"2022-09-26T06:27:56-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections",
+            "Politics and Government",
+            "Right-Wing Extremism and Alt-Right",
+            "International Relations",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            "European Union"
+         ],
+         "per_facet":[
+            "Orban, Viktor",
+            "Giorgia Meloni"
+         ],
+         "geo_facet":[
+            "Italy"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26italy-europe/merlin_213817977_a8885aea-afb4-43c1-86de-72deb0112b60-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni leaving the polling station where she voted in Rome on Sunday. Her Brothers of Italy received the highest vote total of any single party, according to preliminary results.",
+               "copyright":"Gianni Cipriano for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26italy-europe/merlin_213817977_a8885aea-afb4-43c1-86de-72deb0112b60-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni leaving the polling station where she voted in Rome on Sunday. Her Brothers of Italy received the highest vote total of any single party, according to preliminary results.",
+               "copyright":"Gianni Cipriano for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26italy-europe/26italy-europe-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni leaving the polling station where she voted in Rome on Sunday. Her Brothers of Italy received the highest vote total of any single party, according to preliminary results.",
+               "copyright":"Gianni Cipriano for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3CaJYg3"
+      },
+      {
+         "section":"",
+         "subsection":"",
+         "title":"",
+         "abstract":"",
+         "url":"",
+         "uri":"nyt://promo/a36d4b79-9135-5134-ac1c-078c6ed79b7b",
+         "byline":"",
+         "item_type":"Promo",
+         "updated_date":"2022-09-26T14:16:10-04:00",
+         "created_date":"2022-09-26T08:39:00-04:00",
+         "published_date":"2022-09-26T08:39:00-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/merlin_213785130_4a6cf98a-0da8-4d27-8457-9ca900bf3097-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1367,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.",
+               "copyright":"Nicole Tung for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/26ukraine-briefing-header-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.",
+               "copyright":"Nicole Tung for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/26ukraine-briefing-header-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.",
+               "copyright":"Nicole Tung for The New York Times"
+            }
+         ],
+         "short_url":""
+      },
+      {
+         "section":"world",
+         "subsection":"asia",
+         "title":"4 Years After Thrilling Cave Rescue, Sleepy Park Readies for Onslaught",
+         "abstract":"An unheralded national park in Thailand was the center of global attention when 12 boys were trapped in a cave there. In the wake of major movies about the rescue, the park expects a visitor surge.",
+         "url":"https://www.nytimes.com/2022/09/26/world/asia/thai-cave-rescue-tourism.html",
+         "uri":"nyt://article/8d6357b3-2229-587a-8233-3eb2c1fcdbaa",
+         "byline":"By Richard C. Paddock and Muktita Suhartono",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T09:50:43-04:00",
+         "created_date":"2022-09-26T09:35:29-04:00",
+         "published_date":"2022-09-26T09:35:29-04:00",
+         "material_type_facet":"",
+         "kicker":"Thailand Dispatch",
+         "des_facet":[
+            "Rescues",
+            "Caves and Caverns",
+            "Movies",
+            "Travel and Vacations",
+            "Coronavirus (2019-nCoV)"
+         ],
+         "org_facet":[
+            "Netflix Inc"
+         ],
+         "per_facet":[
+            "Ekkapol Chantawong",
+            "Unsworth, Vern"
+         ],
+         "geo_facet":[
+            "Thailand"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/00Thai-Cave-Dispatch-top2/merlin_211847553_e0d05553-c017-4934-9d99-1eb578486478-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The entrance to the Tham Luang Cave in Chiang Rai province, Thailand, last month. The rescue of 12 boys and their soccer coach trapped in the cave in 2018 has since become the focus of documentary films and Hollywood blockbusters.",
+               "copyright":"Luke Duggleby for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/00Thai-Cave-Dispatch-top2/merlin_211847553_e0d05553-c017-4934-9d99-1eb578486478-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The entrance to the Tham Luang Cave in Chiang Rai province, Thailand, last month. The rescue of 12 boys and their soccer coach trapped in the cave in 2018 has since become the focus of documentary films and Hollywood blockbusters.",
+               "copyright":"Luke Duggleby for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/00Thai-Cave-Dispatch-top2/00Thai-Cave-Dispatch-top2-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The entrance to the Tham Luang Cave in Chiang Rai province, Thailand, last month. The rescue of 12 boys and their soccer coach trapped in the cave in 2018 has since become the focus of documentary films and Hollywood blockbusters.",
+               "copyright":"Luke Duggleby for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3UDkdfz"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"At Least 15 Killed in School Shooting in Russia, Including Children",
+         "abstract":"An unidentified gunman entered a school in the city of Izhevsk, killing four adults and 11 children, according to federal investigators.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html",
+         "uri":"nyt://article/e7112196-7e32-55e6-960f-d91c3b0b6049",
+         "byline":"By Valerie Hopkins",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T12:55:44-04:00",
+         "created_date":"2022-09-26T05:45:10-04:00",
+         "published_date":"2022-09-26T05:45:10-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Murders, Attempted Murders and Homicides",
+            "School Shootings and Armed Attacks",
+            "Education (K-12)",
+            "Deaths (Fatalities)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Russia"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26russia-school-2/26russia-school-2-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Police and paramedics working at the scene of a shooting at school No. 88 in Izhevsk, Russia, on Monday.",
+               "copyright":"Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26russia-school-2/26russia-school-2-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Police and paramedics working at the scene of a shooting at school No. 88 in Izhevsk, Russia, on Monday.",
+               "copyright":"Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26russia-school-2/26russia-school-2-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Police and paramedics working at the scene of a shooting at school No. 88 in Izhevsk, Russia, on Monday.",
+               "copyright":"Associated Press"
+            }
+         ],
+         "short_url":"https://nyti.ms/3RfiyKm"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Key Takeaways From Italy’s Landmark Election",
+         "abstract":"Giorgia Meloni, leader of the hard-right Brothers of Italy, looked set to become prime minister after her party garnered more votes than any other.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/italy-election-meloni-what-to-know.html",
+         "uri":"nyt://article/feae2b3c-10ea-552d-953d-781e78a10053",
+         "byline":"By Gaia Pianigiani",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T12:14:23-04:00",
+         "created_date":"2022-09-26T10:25:41-04:00",
+         "published_date":"2022-09-26T10:25:41-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections",
+            "Politics and Government"
+         ],
+         "org_facet":[
+            "Brothers of Italy (Italian Political Party)",
+            "Five Star Movement (Italy)",
+            "Democratic Party (Italy)",
+            "Forza Italia",
+            "League (Italian Political Party)"
+         ],
+         "per_facet":[
+            "Meloni, Giorgia (1977- )",
+            "Berlusconi, Silvio",
+            "Conte, Giuseppe",
+            "Salvini, Matteo"
+         ],
+         "geo_facet":[
+            "Italy"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26-italy-takeaways-promo/26-italy-takeaways-promo-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni holding a sign reading “Thank you Italy” at a news conference on Monday. She is almost certain to become Italy’s first female prime minister.",
+               "copyright":"Gianni Cipriano for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26-italy-takeaways-promo/26-italy-takeaways-promo-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni holding a sign reading “Thank you Italy” at a news conference on Monday. She is almost certain to become Italy’s first female prime minister.",
+               "copyright":"Gianni Cipriano for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26-italy-takeaways-promo/26-italy-takeaways-promo-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni holding a sign reading “Thank you Italy” at a news conference on Monday. She is almost certain to become Italy’s first female prime minister.",
+               "copyright":"Gianni Cipriano for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3BJQ5Xq"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Victorious Meloni Faces Early Test of Italy’s Resolve on Russia",
+         "abstract":"The hard-right leader Giorgia Meloni has been a full-throated supporter of Ukraine, but her coalition partners have sounded like apologists for Vladimir V. Putin.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/meloni-italy-russia-ukraine.html",
+         "uri":"nyt://article/20a37cdb-3a08-569d-9061-8c712b5850fa",
+         "byline":"By Jason Horowitz",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T09:51:22-04:00",
+         "created_date":"2022-09-26T09:30:42-04:00",
+         "published_date":"2022-09-26T09:30:42-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections",
+            "War and Armed Conflicts",
+            "Politics and Government",
+            "Right-Wing Extremism and Alt-Right",
+            "United States International Relations",
+            "International Relations",
+            "Polls and Public Opinion",
+            "Embargoes and Sanctions",
+            "Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            "European Union",
+            "North Atlantic Treaty Organization"
+         ],
+         "per_facet":[
+            "Giorgia Meloni",
+            "Berlusconi, Silvio",
+            "Draghi, Mario",
+            "Putin, Vladimir V",
+            "Salvini, Matteo"
+         ],
+         "geo_facet":[
+            "Italy",
+            "Europe"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ITALY-RUSSIA-image1/merlin_213826386_bbe630a5-208a-4165-9cb3-deac0626001e-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni on Monday after early projections had her coalition winning a majority in Italy’s Parliament. She has unambiguously criticized Russia’s aggression in Ukraine. ",
+               "copyright":"Gianni Cipriano for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ITALY-RUSSIA-image1/merlin_213826386_bbe630a5-208a-4165-9cb3-deac0626001e-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni on Monday after early projections had her coalition winning a majority in Italy’s Parliament. She has unambiguously criticized Russia’s aggression in Ukraine. ",
+               "copyright":"Gianni Cipriano for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ITALY-RUSSIA-image1/26ITALY-RUSSIA-image1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Giorgia Meloni on Monday after early projections had her coalition winning a majority in Italy’s Parliament. She has unambiguously criticized Russia’s aggression in Ukraine. ",
+               "copyright":"Gianni Cipriano for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3rbEtaJ"
+      },
+      {
+         "section":"world",
+         "subsection":"middleeast",
+         "title":"Iran Strikes Kurdish Separatist Groups in Northern Iraq",
+         "abstract":"The death of a young Iranian Kurdish woman in police custody has set off an intense wave of protests across Iran over the past 10 days, igniting fury particularly in the country’s Kurdish minority community.",
+         "url":"https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html",
+         "uri":"nyt://article/8afeb24f-0403-534d-b7b3-1648dc30e3b2",
+         "byline":"By Cora Engelbrecht and Jane Arraf",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T13:37:57-04:00",
+         "created_date":"2022-09-26T10:42:03-04:00",
+         "published_date":"2022-09-26T10:42:03-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Kurds",
+            "Discrimination",
+            "Demonstrations, Protests and Riots",
+            "Politics and Government"
+         ],
+         "org_facet":[
+            "Islamic Revolutionary Guards Corps"
+         ],
+         "per_facet":[
+            "Amini, Mahsa (2000-22)"
+         ],
+         "geo_facet":[
+            "Iran",
+            "Iraq",
+            "Kurdistan"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26IRAN-1/26IRAN-1-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1367,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Women protesting the killing of Mahsa Amini in Erbil, the capital of the semiautonomous Kurdistan region in northern Iraq, on Saturday.",
+               "copyright":"Safin Hamed/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26IRAN-1/26IRAN-1-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Women protesting the killing of Mahsa Amini in Erbil, the capital of the semiautonomous Kurdistan region in northern Iraq, on Saturday.",
+               "copyright":"Safin Hamed/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26IRAN-1/26IRAN-1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Women protesting the killing of Mahsa Amini in Erbil, the capital of the semiautonomous Kurdistan region in northern Iraq, on Saturday.",
+               "copyright":"Safin Hamed/Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3CbGZnC"
+      },
+      {
+         "section":"world",
+         "subsection":"middleeast",
+         "title":"Death of Iranian Woman Ignites Fury Among Fellow Kurds",
+         "abstract":"The protests that have swept Iran following the death of a woman in police custody have been especially intense in the country’s minority Kurdish population.",
+         "url":"https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html",
+         "uri":"nyt://article/4fcbc944-c39b-57c5-97d1-f735ee64c6e6",
+         "byline":"By Jane Arraf and Farnaz Fassihi",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T09:26:04-04:00",
+         "created_date":"2022-09-25T17:48:40-04:00",
+         "published_date":"2022-09-25T17:48:40-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Kurds",
+            "Demonstrations, Protests and Riots",
+            "Women and Girls",
+            "Politics and Government",
+            "Muslim Veiling",
+            "Deaths (Fatalities)",
+            "Human Rights and Human Rights Violations"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Amini, Mahsa (2000-22)"
+         ],
+         "geo_facet":[
+            "Iran"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25iran-kurds1/25iran-kurds1-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1364,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters in Erbil, the capital of Iraq’s semiautonomous Kurdistan Region, burning an Iranian flag on Saturday.",
+               "copyright":"Safin Hamed/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25iran-kurds1/25iran-kurds1-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters in Erbil, the capital of Iraq’s semiautonomous Kurdistan Region, burning an Iranian flag on Saturday.",
+               "copyright":"Safin Hamed/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25iran-kurds1/25iran-kurds1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters in Erbil, the capital of Iraq’s semiautonomous Kurdistan Region, burning an Iranian flag on Saturday.",
+               "copyright":"Safin Hamed/Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3C8Fp5S"
+      },
+      {
+         "section":"world",
+         "subsection":"africa",
+         "title":"Deadlier Than the Titanic: A Ferry Set Out With About 1,900 Aboard. Only 64 Survived.",
+         "abstract":"Tourists, vendors, babies, hundreds of university students and a soccer team from Senegal perished in a little-known ferry disaster 20 years ago. Survivors and families of victims still want justice.",
+         "url":"https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html",
+         "uri":"nyt://article/0a7d50dc-bc69-53bf-8034-367e9e982ad6",
+         "byline":"By Elian Peltier",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T14:00:38-04:00",
+         "created_date":"2022-09-25T05:00:32-04:00",
+         "published_date":"2022-09-25T05:00:32-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Maritime Accidents and Safety",
+            "Deaths (Fatalities)",
+            "Shipwrecks (Historic)",
+            "Ferries",
+            "Rescues"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Senegal",
+            "Casamance (Senegal)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/22/world/00senegal-fery-add6/merlin_213597801_80ebfe02-2397-47d9-8ea1-725fabc44221-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Kantene cemetery in Ziguinchor, Senegal, has 42 graves of victims of the wreck. Artists paid tribute to the deceased by painting on the walls this year.",
+               "copyright":"Carmen Abd Ali for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/22/world/00senegal-fery-add6/merlin_213597801_80ebfe02-2397-47d9-8ea1-725fabc44221-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Kantene cemetery in Ziguinchor, Senegal, has 42 graves of victims of the wreck. Artists paid tribute to the deceased by painting on the walls this year.",
+               "copyright":"Carmen Abd Ali for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/22/world/00senegal-fery-add6/00senegal-fery-add6-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Kantene cemetery in Ziguinchor, Senegal, has 42 graves of victims of the wreck. Artists paid tribute to the deceased by painting on the walls this year.",
+               "copyright":"Carmen Abd Ali for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3dKFyTS"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Two Cities, Two Armies: Pivot Points in the Fight in Ukraine’s East",
+         "abstract":"The battle for the critical Donbas region in Ukraine is centered on two strategically important cities: Lyman, held by the Russians, and Bakhmut, held by Ukraine. The fighting over the cities is fierce as both armies race to claim new ground.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/ukraine-donbas-russia-lyman-bakhmut.html",
+         "uri":"nyt://article/2e1f4d63-a4b6-5325-a985-51ebf1c272d0",
+         "byline":"By Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T14:17:02-04:00",
+         "created_date":"2022-09-26T13:19:50-04:00",
+         "published_date":"2022-09-26T13:19:50-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "War and Armed Conflicts",
+            "Defense and Military Forces",
+            "Mercenaries and Private Military Contractors"
+         ],
+         "org_facet":[
+            "Wagner Group"
+         ],
+         "per_facet":[
+            "Putin, Vladimir V"
+         ],
+         "geo_facet":[
+            "Bakhmut (Ukraine)",
+            "Kharkiv (Ukraine)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ukraine-donbas/00ukraine-donbas-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1479,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A soldier walked across the remains of one of the main bridges in Bakhmut, Ukraine. The bridge was destroyed in September as Russian forces shelled the city.",
+               "copyright":""
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ukraine-donbas/26ukraine-donbas-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A soldier walked across the remains of one of the main bridges in Bakhmut, Ukraine. The bridge was destroyed in September as Russian forces shelled the city.",
+               "copyright":""
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/world/26ukraine-donbas/26ukraine-donbas-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A soldier walked across the remains of one of the main bridges in Bakhmut, Ukraine. The bridge was destroyed in September as Russian forces shelled the city.",
+               "copyright":""
+            }
+         ],
+         "short_url":"https://nyti.ms/3rs8G5D"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Edward Snowden Is Granted Russian Citizenship",
+         "abstract":"Mr. Snowden, a former intelligence contractor, left the United States after giving hundreds of highly classified N.S.A. documents to The Guardian and The Washington Post in 2013.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/edward-snowden-russia-citizenship.html",
+         "uri":"nyt://article/5fb85868-c6ed-5fbf-9807-bfdd269caa19",
+         "byline":"By Alan Yuhas",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T13:05:20-04:00",
+         "created_date":"2022-09-26T13:00:48-04:00",
+         "published_date":"2022-09-26T13:00:48-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States International Relations",
+            "Citizenship and Naturalization",
+            "News and News Media",
+            "Surveillance of Citizens by Government",
+            "Fugitives"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Snowden, Edward J",
+            "Putin, Vladimir V"
+         ],
+         "geo_facet":[
+            "Moscow (Russia)",
+            "Russia"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/multimedia/26ukraine-briefing-snowden-01-1-aad6/26ukraine-briefing-snowden-01-1-aad6-superJumbo-v2.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Edward Snowden speaking during an online forum in Moscow last year.",
+               "copyright":"Olesya Astakhova/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/multimedia/26ukraine-briefing-snowden-01-1-aad6/26ukraine-briefing-snowden-01-1-aad6-threeByTwoSmallAt2X-v2.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Edward Snowden speaking during an online forum in Moscow last year.",
+               "copyright":"Olesya Astakhova/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/multimedia/26ukraine-briefing-snowden-01-1-aad6/26ukraine-briefing-snowden-01-1-aad6-thumbLarge-v2.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Edward Snowden speaking during an online forum in Moscow last year.",
+               "copyright":"Olesya Astakhova/Reuters"
+            }
+         ],
+         "short_url":"https://nyti.ms/3xWBSoW"
+      },
+      {
+         "section":"climate",
+         "subsection":"",
+         "title":"A ‘Nightmare’ for Forecasters: Here’s Why Hurricanes Are Getting Stronger, Faster",
+         "abstract":"Storms that intensify quickly and unpredictably present a big problem for public safety officials, who have less time to assess threats.",
+         "url":"https://www.nytimes.com/2022/09/26/climate/hurricane-ian-rapid-intensification.html",
+         "uri":"nyt://article/628846e8-b611-5582-8f65-39b8296b5998",
+         "byline":"By Elena Shao",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T14:03:21-04:00",
+         "created_date":"2022-09-26T12:11:01-04:00",
+         "published_date":"2022-09-26T12:11:01-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Hurricanes and Tropical Storms",
+            "Oceans and Seas",
+            "Global Warming",
+            "Weather"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Cuba",
+            "Florida"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/climate/26cli-intensification1/26cli-intensification1-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1367,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A firefighter in Bourg, La., during Hurricane Ida last year. Wind speeds in the storm rose to 150 miles per hour, from 85 m.p.h., in less than 24 hours.",
+               "copyright":"Mark Felix/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/climate/26cli-intensification1/26cli-intensification1-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A firefighter in Bourg, La., during Hurricane Ida last year. Wind speeds in the storm rose to 150 miles per hour, from 85 m.p.h., in less than 24 hours.",
+               "copyright":"Mark Felix/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/climate/26cli-intensification1/26cli-intensification1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A firefighter in Bourg, La., during Hurricane Ida last year. Wind speeds in the storm rose to 150 miles per hour, from 85 m.p.h., in less than 24 hours.",
+               "copyright":"Mark Felix/Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3R8XAg4"
+      },
+      {
+         "section":"business",
+         "subsection":"economy",
+         "title":"The Dollar Is Strong. That Is Good for the U.S. but Bad for the World.",
+         "abstract":"The Federal Reserve may have no choice but to wage a relentless inflation fight, but countries rich and poor are feeling the pain of plunging currencies.",
+         "url":"https://www.nytimes.com/2022/09/26/business/economy/us-dollar-global-impact.html",
+         "uri":"nyt://article/e524003b-c49a-5b81-89fa-38eeabd78bc1",
+         "byline":"By Patricia Cohen",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T12:59:20-04:00",
+         "created_date":"2022-09-26T11:28:20-04:00",
+         "published_date":"2022-09-26T11:28:20-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States Economy",
+            "Currency",
+            "Prices (Fares, Fees and Rates)",
+            "Third World and Developing Countries",
+            "International Trade and World Market",
+            "Interest Rates",
+            "Inflation (Economics)"
+         ],
+         "org_facet":[
+            "Eurozone",
+            "Federal Reserve System"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/business/26Global-Econ-Dollar-1/merlin_212151846_70f59e4b-3f14-44c2-b617-61443ac0e279-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"When it comes to global finance and trade, the United States has outsize influence.",
+               "copyright":"Christopher Lee for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/business/26Global-Econ-Dollar-1/merlin_212151846_70f59e4b-3f14-44c2-b617-61443ac0e279-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"When it comes to global finance and trade, the United States has outsize influence.",
+               "copyright":"Christopher Lee for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/business/26Global-Econ-Dollar-1/26Global-Econ-Dollar-1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"When it comes to global finance and trade, the United States has outsize influence.",
+               "copyright":"Christopher Lee for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3DWACWy"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Ukrainian Soldier Whose Bracelet Made Him a Symbol Gets Posthumous Honors",
+         "abstract":"Serhiy Sova, 36, was honored as a Hero of Ukraine by President Volodymyr Zelensky. His body was found in a mass grave in Izium.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/ukraine-soldier-bracelet-izium-grave.html",
+         "uri":"nyt://article/1c390ceb-8c03-583a-811c-24e737e95a0d",
+         "byline":"By Marc Santora",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T08:41:28-04:00",
+         "created_date":"2022-09-26T08:34:58-04:00",
+         "published_date":"2022-09-26T08:34:58-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "War and Armed Conflicts",
+            "Flags, Emblems and Insignia",
+            "Russian Invasion of Ukraine (2022)",
+            "Defense and Military Forces"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Ukraine"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/26ukraine-briefing-bracelet-man/23ukraine-briefing-bracelet-VERSION-topart-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Serhiy Sova, whose body was exhumed in Izium earlier this month, in 2019. He was a trainer and breeder of dogs.",
+               "copyright":"via Oksana Sova"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/26ukraine-briefing-bracelet-man/23ukraine-briefing-bracelet-VERSION-topart-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Serhiy Sova, whose body was exhumed in Izium earlier this month, in 2019. He was a trainer and breeder of dogs.",
+               "copyright":"via Oksana Sova"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/26ukraine-briefing-bracelet-man/00ukraine-izium2-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Serhiy Sova, whose body was exhumed in Izium earlier this month, in 2019. He was a trainer and breeder of dogs.",
+               "copyright":"via Oksana Sova"
+            }
+         ],
+         "short_url":"https://nyti.ms/3DWT55u"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Putin Ally Acknowledges Founding Wagner Mercenary Group",
+         "abstract":"Yevgeny V. Prigozhin, a Russian businessman and close associate of President Vladimir V. Putin, confirmed his role weeks after he was seen in a recruitment video for the private military company.",
+         "url":"https://www.nytimes.com/2022/09/26/world/europe/russia-wagner-group-prigozhin.html",
+         "uri":"nyt://article/861bfa47-c491-5df8-a7d3-cfd26df26c07",
+         "byline":"By Cora Engelbrecht",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T08:07:54-04:00",
+         "created_date":"2022-09-26T08:07:54-04:00",
+         "published_date":"2022-09-26T08:07:54-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "Mercenaries and Private Military Contractors"
+         ],
+         "org_facet":[
+            "Wagner Group"
+         ],
+         "per_facet":[
+            "Putin, Vladimir V",
+            "Prigozhin, Yevgeny V"
+         ],
+         "geo_facet":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2020/06/14/world/26ukraine-briefing-prigozhin/26ukraine-briefing-prigozhin-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1379,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Yevgeny Prigozhin at a meeting of Russian and Turkish government officials and business leaders in Saint Petersburg, Russia, in 2016.",
+               "copyright":"Mikhail Metze/TASS, via Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2020/06/14/world/26ukraine-briefing-prigozhin/26ukraine-briefing-prigozhin-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Yevgeny Prigozhin at a meeting of Russian and Turkish government officials and business leaders in Saint Petersburg, Russia, in 2016.",
+               "copyright":"Mikhail Metze/TASS, via Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2020/06/14/world/26ukraine-briefing-prigozhin/26ukraine-briefing-prigozhin-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Yevgeny Prigozhin at a meeting of Russian and Turkish government officials and business leaders in Saint Petersburg, Russia, in 2016.",
+               "copyright":"Mikhail Metze/TASS, via Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3UEUt2s"
+      },
+      {
+         "section":"briefing",
+         "subsection":"",
+         "title":"Iran’s Ferocious Dissent",
+         "abstract":"Times reporters make sense of what’s happening.",
+         "url":"https://www.nytimes.com/2022/09/26/briefing/iran-protests-mahsa-amini.html",
+         "uri":"nyt://article/5d30ccf4-0672-53b7-8924-4654bb200dbc",
+         "byline":"By David Leonhardt",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T11:44:00-04:00",
+         "created_date":"2022-09-26T06:33:46-04:00",
+         "published_date":"2022-09-26T06:33:46-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections",
+            "Politics and Government",
+            "War and Armed Conflicts",
+            "States (US)",
+            "Embargoes and Sanctions",
+            "Muslim Veiling"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/24/world/26-THE-MORNING-NL-u-i2-promo/24IRAN-LEDEALL3-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A protest in Tehran last week over the death of a 22-year-old woman, Mahsa Amini, in police custody this month.",
+               "copyright":"Wana News Agency/Via Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/24/world/26-THE-MORNING-NL-u-i2-promo/24IRAN-LEDEALL3-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A protest in Tehran last week over the death of a 22-year-old woman, Mahsa Amini, in police custody this month.",
+               "copyright":"Wana News Agency/Via Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/24/world/26-THE-MORNING-NL-u-i2-promo/24IRAN-LEDEALL3-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A protest in Tehran last week over the death of a 22-year-old woman, Mahsa Amini, in police custody this month.",
+               "copyright":"Wana News Agency/Via Reuters"
+            }
+         ],
+         "short_url":"https://nyti.ms/3C8hZOa"
+      },
+      {
+         "section":"business",
+         "subsection":"",
+         "title":"For China’s Auto Market, Electric Isn’t the Future. It’s the Present.",
+         "abstract":"More electric cars will be sold in the country this year than in the rest of the world combined, as its domestic market accelerates ahead of the global competition.",
+         "url":"https://www.nytimes.com/2022/09/26/business/china-electric-vehicles.html",
+         "uri":"nyt://article/705c79cf-ada2-52f6-8506-b035a78aaa65",
+         "byline":"By Daisuke Wakabayashi and Claire Fu",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T09:12:38-04:00",
+         "created_date":"2022-09-26T05:00:24-04:00",
+         "published_date":"2022-09-26T05:00:24-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Automobiles",
+            "Electric and Hybrid Vehicles",
+            "Factories and Manufacturing",
+            "Infrastructure (Public Works)",
+            "Oil (Petroleum) and Gasoline"
+         ],
+         "org_facet":[
+            "BYD Co Ltd",
+            "Nio Ltd"
+         ],
+         "per_facet":[
+            "Xi Jinping"
+         ],
+         "geo_facet":[
+            "China"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/business/00china-ev-1/merlin_210029841_52290826-1c74-467e-907b-953e56b0fa47-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"BYD, China’s largest electric vehicle maker, displayed cars at an auto show in Wuhan, China, in July.",
+               "copyright":"Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/business/00china-ev-1/merlin_210029841_52290826-1c74-467e-907b-953e56b0fa47-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"BYD, China’s largest electric vehicle maker, displayed cars at an auto show in Wuhan, China, in July.",
+               "copyright":"Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/business/00china-ev-1/00china-ev-1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"BYD, China’s largest electric vehicle maker, displayed cars at an auto show in Wuhan, China, in July.",
+               "copyright":"Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3xSj3mM"
+      },
+      {
+         "section":"technology",
+         "subsection":"",
+         "title":"TikTok Seen Moving Toward U.S. Security Deal, but Hurdles Remain",
+         "abstract":"A draft agreement with the Biden administration to keep the Chinese-owned video app operating in the United States is under review. That could mean more wrangling.",
+         "url":"https://www.nytimes.com/2022/09/26/technology/tiktok-national-security-china.html",
+         "uri":"nyt://article/afc9304f-0af6-5a47-b693-7e18017ade11",
+         "byline":"By Lauren Hirsch, David McCabe, Katie Benner and Glenn Thrush",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T10:37:11-04:00",
+         "created_date":"2022-09-26T05:00:23-04:00",
+         "published_date":"2022-09-26T05:00:23-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "United States International Relations",
+            "Social Media",
+            "United States Politics and Government",
+            "Executive Orders and Memorandums",
+            "Mobile Applications",
+            "Foreign Investments",
+            "Computers and the Internet",
+            "Mergers, Acquisitions and Divestitures"
+         ],
+         "org_facet":[
+            "Beijing Bytedance Technology Co Ltd",
+            "Oracle Corporation",
+            "TikTok (ByteDance)",
+            "Committee on Foreign Investment in the United States (CFIUS)",
+            "Justice Department",
+            "Treasury Department"
+         ],
+         "per_facet":[
+            "Monaco, Lisa O"
+         ],
+         "geo_facet":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2020/10/13/00TIKTOK-09/00TIKTOK-09-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":2048,
+               "width":1637,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"TikTok has been under a legal cloud in the United States because of its Chinese ownership.",
+               "copyright":"Tony Luong for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2020/10/13/00TIKTOK-09/merlin_165543960_7a820bb5-1927-4de5-a2c8-d68ca160211e-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"TikTok has been under a legal cloud in the United States because of its Chinese ownership.",
+               "copyright":"Tony Luong for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2020/10/13/00TIKTOK-09/00TIKTOK-09-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"TikTok has been under a legal cloud in the United States because of its Chinese ownership.",
+               "copyright":"Tony Luong for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3CaKKtu"
+      },
+      {
+         "section":"health",
+         "subsection":"",
+         "title":"Monkeypox Appears to Recede, but Risks and Uncertainties Linger",
+         "abstract":"Scientists do not yet know how well the vaccine and the drug used to treat the infection are working. Two new trials will provide answers.",
+         "url":"https://www.nytimes.com/2022/09/26/health/monkeypox-vaccine.html",
+         "uri":"nyt://article/de91e4a2-2b1d-55ad-aae3-cb1ac74407fb",
+         "byline":"By Apoorva Mandavilli",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T05:00:17-04:00",
+         "created_date":"2022-09-26T05:00:17-04:00",
+         "published_date":"2022-09-26T05:00:17-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "your-feed-science",
+            "Monkeypox",
+            "Vaccination and Immunization",
+            "Black People",
+            "Clinical Trials",
+            "Hispanic-Americans",
+            "Viruses",
+            "Drugs (Pharmaceuticals)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/science/26monkeypox1/merlin_211305870_00bedacd-3cce-4a67-bc8e-d4e268360863-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1375,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers prepare the Jynneos monkeypox vaccine at a vaccination site in Los Angeles last month. Though cases seem to be receding, recent reports suggest that a single dose may not be protective enough.",
+               "copyright":"Mario Tama/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/science/26monkeypox1/26monkeypox1-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers prepare the Jynneos monkeypox vaccine at a vaccination site in Los Angeles last month. Though cases seem to be receding, recent reports suggest that a single dose may not be protective enough.",
+               "copyright":"Mario Tama/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/26/science/26monkeypox1/26monkeypox1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Workers prepare the Jynneos monkeypox vaccine at a vaccination site in Los Angeles last month. Though cases seem to be receding, recent reports suggest that a single dose may not be protective enough.",
+               "copyright":"Mario Tama/Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3CaKEC8"
+      },
+      {
+         "section":"world",
+         "subsection":"americas",
+         "title":"To Defend Democracy, Is Brazil’s Top Court Going Too Far?",
+         "abstract":"Brazil’s Supreme Court has acted as the primary check on President Jair Bolsonaro’s power. Now many are worried the court is posing its own threat.",
+         "url":"https://www.nytimes.com/2022/09/26/world/americas/bolsonaro-brazil-supreme-court.html",
+         "uri":"nyt://article/a9025c21-6427-5f07-87ad-88d89733231a",
+         "byline":"By Jack Nicas and André Spigariol",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T13:42:51-04:00",
+         "created_date":"2022-09-26T03:00:11-04:00",
+         "published_date":"2022-09-26T03:00:11-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections",
+            "Politics and Government",
+            "Democracy (Theory and Philosophy)",
+            "Social Media",
+            "Project Democracy",
+            "Courts and the Judiciary"
+         ],
+         "org_facet":[
+            "WhatsApp Inc"
+         ],
+         "per_facet":[
+            "Bolsonaro, Jair (1955- )",
+            "Da Silva, Luiz Inacio Lula",
+            "Moraes, Alexandre de (1968- )"
+         ],
+         "geo_facet":[
+            "Brazil"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/00brazil-courts-1/merlin_211503930_af0cf774-3e91-4760-8661-e309d728fa1f-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Judge Alexandre de Moraes, a member of Brazil’s Supreme Court, has used the court’s power to counter the antidemocratic stances of President Jair Bolsonaro and his supporters.",
+               "copyright":"Fabio Pozzebom/Agencia Brasil"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/00brazil-courts-1/merlin_211503930_af0cf774-3e91-4760-8661-e309d728fa1f-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Judge Alexandre de Moraes, a member of Brazil’s Supreme Court, has used the court’s power to counter the antidemocratic stances of President Jair Bolsonaro and his supporters.",
+               "copyright":"Fabio Pozzebom/Agencia Brasil"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/23/world/00brazil-courts-1/00brazil-courts-1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Judge Alexandre de Moraes, a member of Brazil’s Supreme Court, has used the court’s power to counter the antidemocratic stances of President Jair Bolsonaro and his supporters.",
+               "copyright":"Fabio Pozzebom/Agencia Brasil"
+            }
+         ],
+         "short_url":"https://nyti.ms/3raM5KB"
+      },
+      {
+         "section":"briefing",
+         "subsection":"",
+         "title":"Your Monday Briefing",
+         "abstract":"Elections in Italy.",
+         "url":"https://www.nytimes.com/2022/09/25/briefing/italy-elections-ukraine.html",
+         "uri":"nyt://article/a5b41e84-7cf8-5bd6-ac84-24a1b613fbfd",
+         "byline":"By Jonathan Wolfe and Amelia Nierenberg",
+         "item_type":"Article",
+         "updated_date":"2022-09-25T23:04:50-04:00",
+         "created_date":"2022-09-25T23:04:50-04:00",
+         "published_date":"2022-09-25T23:04:50-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/26ambriefing-europe-nl-promo/26ambriefing-europe-nl-promo-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1756,
+               "width":1755,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Alessandro Garofalo/LaPresse, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/26ambriefing-europe-nl-promo/26ambriefing-europe-nl-promo-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Alessandro Garofalo/LaPresse, via Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/26ambriefing-europe-nl-promo/25italy-briefing-lede-1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Alessandro Garofalo/LaPresse, via Associated Press"
+            }
+         ],
+         "short_url":"https://nyti.ms/3r9P0TC"
+      },
+      {
+         "section":"us",
+         "subsection":"politics",
+         "title":"U.S. Warns Russia of ‘Catastrophic Consequences’ if It Uses Nuclear Weapons",
+         "abstract":"The comments by the national security adviser, Jake Sullivan, illustrate how quickly the rhetoric has intensified as Russia has faltered on the battlefield in recent months.",
+         "url":"https://www.nytimes.com/2022/09/25/us/politics/us-russia-nuclear.html",
+         "uri":"nyt://article/5172de36-f364-5d74-861d-f41d8635b787",
+         "byline":"By David E. Sanger and Jim Tankersley",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T11:44:41-04:00",
+         "created_date":"2022-09-25T20:00:11-04:00",
+         "published_date":"2022-09-25T20:00:11-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "War and Armed Conflicts",
+            "Nuclear Weapons",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Putin, Vladimir V",
+            "Sullivan, Jacob J (1976- )",
+            "Biden, Joseph R Jr"
+         ],
+         "geo_facet":[
+            "Russia"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/25dc-biden-nuclear-1-ae73/25dc-biden-nuclear-1-ae73-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jake Sullivan, the national security adviser, this month. American intelligence officials say they still believe the chances that nuclear weapons will be used in the conflict are low.",
+               "copyright":"Gabriela Bhaskar for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/25dc-biden-nuclear-1-ae73/25dc-biden-nuclear-1-ae73-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jake Sullivan, the national security adviser, this month. American intelligence officials say they still believe the chances that nuclear weapons will be used in the conflict are low.",
+               "copyright":"Gabriela Bhaskar for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/25dc-biden-nuclear-1-ae73/25dc-biden-nuclear-1-ae73-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jake Sullivan, the national security adviser, this month. American intelligence officials say they still believe the chances that nuclear weapons will be used in the conflict are low.",
+               "copyright":"Gabriela Bhaskar for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3dFBgNm"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Russia Begins Mobilizing Ukrainians to Fight Against Their Own Country",
+         "abstract":"Panic and fear flooded the occupied territories as Russian forces rounded up men to fight and forced residents to vote in a staged referendum on joining Russia, Ukrainian officials and rights groups said.",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/russia-ukraine-forces-referendum.html",
+         "uri":"nyt://article/d9847951-7577-5790-97d9-f77247fe9205",
+         "byline":"By Marc Santora",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T09:29:10-04:00",
+         "created_date":"2022-09-25T17:14:33-04:00",
+         "published_date":"2022-09-25T17:14:33-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "Draft and Recruitment (Military)",
+            "Defense and Military Forces",
+            "Referendums",
+            "Tatars (Ethnic Group)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Putin, Vladimir V",
+            "Zelensky, Volodymyr"
+         ],
+         "geo_facet":[
+            "Russia",
+            "Ukraine",
+            "Kherson (Ukraine)",
+            "Zaporizhzhia (Ukraine)",
+            "Crimea (Ukraine)",
+            "Dagestan (Russia)",
+            "Donetsk (Ukraine)",
+            "Luhansk (Ukraine)"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25ukraine-ledeall-1/merlin_213718785_ef151482-7c60-4c5d-845b-2e77768c65d7-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1358,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A polling station in Mariupol, Ukraine, on Saturday, the second day of a referendum on joining the self-proclaimed Donetsk People's Republic to Russia. ",
+               "copyright":"Alexander Ermochenko/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25ukraine-ledeall-1/25ukraine-ledeall-1-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A polling station in Mariupol, Ukraine, on Saturday, the second day of a referendum on joining the self-proclaimed Donetsk People's Republic to Russia. ",
+               "copyright":"Alexander Ermochenko/Reuters"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25ukraine-ledeall-1/25ukraine-ledeall-1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A polling station in Mariupol, Ukraine, on Saturday, the second day of a referendum on joining the self-proclaimed Donetsk People's Republic to Russia. ",
+               "copyright":"Alexander Ermochenko/Reuters"
+            }
+         ],
+         "short_url":"https://nyti.ms/3C8Gaf7"
+      },
+      {
+         "section":"briefing",
+         "subsection":"",
+         "title":"Your Monday Briefing: Protests Grow in Iran",
+         "abstract":"Plus anger builds in Japan over Shinzo Abe’s state funeral and Russia tries to conscript Ukrainians.",
+         "url":"https://www.nytimes.com/2022/09/25/briefing/protests-iran-japan-abe-asia.html",
+         "uri":"nyt://article/1297bfd0-844e-54d4-bc21-e7ff1f26105c",
+         "byline":"By Amelia Nierenberg",
+         "item_type":"Article",
+         "updated_date":"2022-09-25T17:03:00-04:00",
+         "created_date":"2022-09-25T17:03:00-04:00",
+         "published_date":"2022-09-25T17:03:00-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Elections",
+            "War and Armed Conflicts",
+            "Demonstrations, Protests and Riots",
+            "Defense and Military Forces",
+            "International Relations",
+            "Muslim Veiling",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            "Liberal Democratic Party (Japan)",
+            "Unification Church"
+         ],
+         "per_facet":[
+            "Abe, Shinzo"
+         ],
+         "geo_facet":[
+            "Iran",
+            "Japan",
+            "Ukraine"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/22/world/26ambriefing-asia-nl-iran-PROMO/merlin_213594909_b622e093-30f1-4eb4-a1c1-999fffbdae7a-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":720,
+               "width":1080,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters in the streets of Tehran on Wednesday. The protests have grown to encapsulate a wide range of grievances against the government.",
+               "copyright":"Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/22/world/26ambriefing-asia-nl-iran-PROMO/merlin_213594909_b622e093-30f1-4eb4-a1c1-999fffbdae7a-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters in the streets of Tehran on Wednesday. The protests have grown to encapsulate a wide range of grievances against the government.",
+               "copyright":"Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/22/world/26ambriefing-asia-nl-iran-PROMO/26ambriefing-asia-nl-iran-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters in the streets of Tehran on Wednesday. The protests have grown to encapsulate a wide range of grievances against the government.",
+               "copyright":"Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3DVtZUA"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Roger Waters Concert in Poland Called Off After Ukraine Views Prompt Anger",
+         "abstract":"In online exchanges with Ukraines first lady, the Pink Floyd co-founder said Ukraine should seek peace with Russia and blamed the United States for encouraging the conflict.",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/roger-waters-poland-concert-ukraine.html",
+         "uri":"nyt://article/fd7d27f1-2244-512e-91cd-09a3e21de975",
+         "byline":"By Matthew Mpoke Bigg",
+         "item_type":"Article",
+         "updated_date":"2022-09-25T15:10:59-04:00",
+         "created_date":"2022-09-25T15:10:59-04:00",
+         "published_date":"2022-09-25T15:10:59-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "War and Armed Conflicts",
+            "Pop and Rock Music"
+         ],
+         "org_facet":[
+            "Pink Floyd (Music Group)"
+         ],
+         "per_facet":[
+            "Waters, Roger"
+         ],
+         "geo_facet":[
+            "Poland"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/5ukraine-briefing-roger-waters-01-1-8a8e/5ukraine-briefing-roger-waters-01-1-8a8e-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1366,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Roger Waters performing at Madison Square Garden in August.",
+               "copyright":"Theo Wargo/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/5ukraine-briefing-roger-waters-01-1-8a8e/5ukraine-briefing-roger-waters-01-1-8a8e-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Roger Waters performing at Madison Square Garden in August.",
+               "copyright":"Theo Wargo/Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/5ukraine-briefing-roger-waters-01-1-8a8e/5ukraine-briefing-roger-waters-01-1-8a8e-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Roger Waters performing at Madison Square Garden in August.",
+               "copyright":"Theo Wargo/Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3fmWgZC"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"‘They are not happy with how we love each other’: Gay parents fear a Meloni victory.",
+         "abstract":"In her election campaign, Giorgia Meloni pledged to oppose surrogacy and adoption by gay couples.",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/lgbt-adoption-giorgia-meloni.html",
+         "uri":"nyt://article/46af9edf-c86a-55b6-be51-5e0b2ee53979",
+         "byline":"By Emma Bubola",
+         "item_type":"Article",
+         "updated_date":"2022-09-25T14:20:20-04:00",
+         "created_date":"2022-09-25T14:20:20-04:00",
+         "published_date":"2022-09-25T14:20:20-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Homosexuality and Bisexuality",
+            "Discrimination",
+            "Elections",
+            "Politics and Government",
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships"
+         ],
+         "org_facet":[
+            "Brothers of Italy (Italian Political Party)"
+         ],
+         "per_facet":[
+            "Meloni, Giorgia (1977- )"
+         ],
+         "geo_facet":[
+            "Italy"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25Italy-Lgbt01/merlin_213654411_c0a90c80-5dca-4e77-806f-32f65a06d995-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A campaign poster of Giorgia Meloni. She has pledged to oppose surrogacy and adoption by gay couples but said she would not touch existing civil rights.",
+               "copyright":"Alessandra Tarantino/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25Italy-Lgbt01/merlin_213654411_c0a90c80-5dca-4e77-806f-32f65a06d995-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A campaign poster of Giorgia Meloni. She has pledged to oppose surrogacy and adoption by gay couples but said she would not touch existing civil rights.",
+               "copyright":"Alessandra Tarantino/Associated Press"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25Italy-Lgbt01/25Italy-Lgbt01-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A campaign poster of Giorgia Meloni. She has pledged to oppose surrogacy and adoption by gay couples but said she would not touch existing civil rights.",
+               "copyright":"Alessandra Tarantino/Associated Press"
+            }
+         ],
+         "short_url":"https://nyti.ms/3R6GYpe"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Soviet Monuments Become Latest Target of Backlash Against War in Ukraine",
+         "abstract":"Across Eastern and Central Europe, statues honoring Soviet troops for their role in defeating the Nazis in World War II have in recent weeks come down or been slated for demolition.",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/soviet-monuments-war.html",
+         "uri":"nyt://article/e8bb474c-823d-532e-bb49-1cec8d1738c7",
+         "byline":"By Andrew Higgins",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T08:36:16-04:00",
+         "created_date":"2022-09-25T14:10:15-04:00",
+         "published_date":"2022-09-25T14:10:15-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "War and Armed Conflicts",
+            "Monuments and Memorials (Structures)",
+            "Defense and Military Forces",
+            "World War II (1939-45)"
+         ],
+         "org_facet":[
+            "Red Army (Soviet Union)"
+         ],
+         "per_facet":[
+            "Putin, Vladimir V",
+            "Stalin, Joseph"
+         ],
+         "geo_facet":[
+            "Central Europe"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/20/world/20latvia-soviet1/20latvia-soviet1-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":2048,
+               "width":1642,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Dr. Juris Vidins, right, in front of a Red Army soldier statue in the town of Rezekne, Latvia. ",
+               "copyright":"Katrina Kepule for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/20/world/20latvia-soviet1/20latvia-soviet1-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Dr. Juris Vidins, right, in front of a Red Army soldier statue in the town of Rezekne, Latvia. ",
+               "copyright":"Katrina Kepule for The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/20/world/20latvia-soviet1/20latvia-soviet1-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Dr. Juris Vidins, right, in front of a Red Army soldier statue in the town of Rezekne, Latvia. ",
+               "copyright":"Katrina Kepule for The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3BHs03f"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"The U.S. says it has warned Russia of ‘catastrophic consequences’ if it uses nuclear weapons in Ukraine.",
+         "abstract":"",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/the-us-says-it-has-warned-russia-of-catastrophic-consequences-if-it-uses-nuclear-weapons-in-ukraine.html",
+         "uri":"nyt://article/07151b3a-8c02-5a8a-80d8-c1b49bc4df5e",
+         "byline":"By Jim Tankersley and Eric Schmitt",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T10:32:41-04:00",
+         "created_date":"2022-09-25T11:07:17-04:00",
+         "published_date":"2022-09-25T11:07:17-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/25ukraine-briefing-sullivan-01-1-aaf0/25ukraine-briefing-sullivan-01-1-aaf0-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"In Bakhmut, in the Donetsk region of eastern Ukraine, last week.",
+               "copyright":"Tyler Hicks/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/25ukraine-briefing-sullivan-01-1-aaf0/25ukraine-briefing-sullivan-01-1-aaf0-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"In Bakhmut, in the Donetsk region of eastern Ukraine, last week.",
+               "copyright":"Tyler Hicks/The New York Times"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/25ukraine-briefing-sullivan-01-1-aaf0/25ukraine-briefing-sullivan-01-1-aaf0-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"In Bakhmut, in the Donetsk region of eastern Ukraine, last week.",
+               "copyright":"Tyler Hicks/The New York Times"
+            }
+         ],
+         "short_url":"https://nyti.ms/3BGWNgJ"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Ukraine warns of growing attacks by drones Iran has supplied to Russia.",
+         "abstract":"As Moscow finds itself isolated internationally, and as its arsenal has been depleted in Ukraine, it has turned for military support to countries including Iran.",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/ukraine-drones-iran-russia.html",
+         "uri":"nyt://article/219d8964-44ff-5508-abec-e3a58ee0eb39",
+         "byline":"By Marc Santora",
+         "item_type":"Article",
+         "updated_date":"2022-09-26T12:44:03-04:00",
+         "created_date":"2022-09-25T10:23:59-04:00",
+         "published_date":"2022-09-25T10:23:59-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "Drones (Pilotless Planes)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Iran",
+            "Russia",
+            "Ukraine"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/-1-69d5/-1-69d5-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":544,
+               "width":815,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An unmanned aerial vehicle seen on Friday over the southern port city of Odesa, where Ukrainian officials say Russia has repeatedly deployed Iranian-made drones.",
+               "copyright":"Reuters/Serhii Smolientsev"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/-1-69d5/-1-69d5-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An unmanned aerial vehicle seen on Friday over the southern port city of Odesa, where Ukrainian officials say Russia has repeatedly deployed Iranian-made drones.",
+               "copyright":"Reuters/Serhii Smolientsev"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/multimedia/-1-69d5/-1-69d5-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"An unmanned aerial vehicle seen on Friday over the southern port city of Odesa, where Ukrainian officials say Russia has repeatedly deployed Iranian-made drones.",
+               "copyright":"Reuters/Serhii Smolientsev"
+            }
+         ],
+         "short_url":"https://nyti.ms/3DX0sJZ"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Germany’s Chancellor Has ‘a Lot’ for Ukraine. But No Battle Tanks.",
+         "abstract":"Military assistance to Kyiv has become something of a litmus test of Olaf Scholz’s ability to lead Europe through its most significant security crisis since World War II.",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html",
+         "uri":"nyt://article/d43a7052-3621-5f33-8bf5-74cbd975aea4",
+         "byline":"By Katrin Bennhold",
+         "item_type":"Article",
+         "updated_date":"2022-09-25T22:20:02-04:00",
+         "created_date":"2022-09-25T09:09:44-04:00",
+         "published_date":"2022-09-25T09:09:44-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            "Social Democratic Party (Germany)",
+            "North Atlantic Treaty Organization"
+         ],
+         "per_facet":[
+            "Biden, Joseph R Jr",
+            "Scholz, Olaf (1958- )",
+            "Putin, Vladimir V",
+            "Zelensky, Volodymyr",
+            "Stoltenberg, Jens"
+         ],
+         "geo_facet":[
+            "Germany",
+            "Europe",
+            "Russia",
+            "Ukraine"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25Sholz01/merlin_213575304_001aeb94-53a5-4483-9054-6ec13e26368e-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1426,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Chancellor Olaf Scholz of Germany last week at the United Nations in New York. “Leadership does not mean you do what people ask you,” he said.",
+               "copyright":"Peter Foley/EPA, via Shutterstock"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25Sholz01/25Sholz01-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Chancellor Olaf Scholz of Germany last week at the United Nations in New York. “Leadership does not mean you do what people ask you,” he said.",
+               "copyright":"Peter Foley/EPA, via Shutterstock"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25Sholz01/25Sholz01-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Chancellor Olaf Scholz of Germany last week at the United Nations in New York. “Leadership does not mean you do what people ask you,” he said.",
+               "copyright":"Peter Foley/EPA, via Shutterstock"
+            }
+         ],
+         "short_url":"https://nyti.ms/3r8HVTi"
+      },
+      {
+         "section":"world",
+         "subsection":"europe",
+         "title":"Hello, fellow kids: Italian politicians turn to TikTok for votes.",
+         "abstract":"Lawmakers set up TikTok accounts to try to reach undecided voters before Sunday’s elections. Hilarity ensued.",
+         "url":"https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html",
+         "uri":"nyt://article/c0c7441c-301b-5d91-89ce-4247e3685153",
+         "byline":"By Gaia Pianigiani",
+         "item_type":"Article",
+         "updated_date":"2022-09-25T08:00:04-04:00",
+         "created_date":"2022-09-25T08:00:04-04:00",
+         "published_date":"2022-09-25T08:00:04-04:00",
+         "material_type_facet":"",
+         "kicker":"",
+         "des_facet":[
+            "Social Media",
+            "Politics and Government",
+            "Elections"
+         ],
+         "org_facet":[
+            "Brothers of Italy (Italian Political Party)",
+            "Democratic Party (Italy)",
+            "League (Italian Political Party)",
+            "TikTok (ByteDance)"
+         ],
+         "per_facet":[
+            "Berlusconi, Silvio",
+            "Meloni, Giorgia (1977- )",
+            "Salvini, Matteo"
+         ],
+         "geo_facet":[
+            "Italy"
+         ],
+         "multimedia":[
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-tiktok-effect/merlin_213618411_e3b664fd-881d-4bec-be4f-5a227f7c46fb-superJumbo.jpg",
+               "format":"Super Jumbo",
+               "height":1365,
+               "width":2048,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Silvio Berlusconi’s TikTok profile is brimming with jokes, clips from TV appearances and videos shot in a studio.",
+               "copyright":"Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-tiktok-effect/merlin_213618411_e3b664fd-881d-4bec-be4f-5a227f7c46fb-threeByTwoSmallAt2X.jpg",
+               "format":"threeByTwoSmallAt2X",
+               "height":400,
+               "width":600,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Silvio Berlusconi’s TikTok profile is brimming with jokes, clips from TV appearances and videos shot in a studio.",
+               "copyright":"Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+               "url":"https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-tiktok-effect/merlin_213618411_e3b664fd-881d-4bec-be4f-5a227f7c46fb-thumbLarge.jpg",
+               "format":"Large Thumbnail",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Silvio Berlusconi’s TikTok profile is brimming with jokes, clips from TV appearances and videos shot in a studio.",
+               "copyright":"Alberto Pizzoli/Agence France-Presse — Getty Images"
+            }
+         ],
+         "short_url":"https://nyti.ms/3dLcvPN"
+      }
+   ]
+}
